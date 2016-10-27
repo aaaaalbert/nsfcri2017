@@ -61,7 +61,7 @@ Anticipated Funding Amount: $18,000,000
 [(Source)](https://www.nsf.gov/pubs/2015/nsf15590/nsf15590.htm#pgm_desc_txt)
 
 | Project type | Max budget (USD) | Duration (years) |
-|---------|------|------------|
+|---------|------:|----------|
 | II-*    | 1,000,000 | 3 |
 | CI-P    |   100,000 | 1.5 |
 | CI-NEW  | 2,500,000 | 3 |
