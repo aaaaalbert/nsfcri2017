@@ -55,3 +55,23 @@ Estimated Number of Awards: 25 to 30
 With up to 20 Institutional Infrastructure (II) awards and up to 10 Community Infrastructure (CI) awards in each competition. The majority of the II awards will be made in the $200,000 - $750,000 range, though a small number of II awards may be made in the $750,000 - $1,000,000 range. The majority of the CI awards will be made in the $500,000 - $1,000,000 range, though a very small number of CI awards may be made in the $1,000,000 - $2,500,000 range. The majority of the Community Infrastructure Planning (CI-P) awards will be made in the $50,000 - $100,000 range.
 
 Anticipated Funding Amount: $18,000,000
+
+
+## Durations (via Program Description)
+[(Source)](https://www.nsf.gov/pubs/2015/nsf15590/nsf15590.htm#pgm_desc_txt)
+
+| Project type | Duration (years) | Max budget |
+|---------|------|------------|
+| II-*    | 1,000,000 | 3 |
+| CI-P    |   100,000 | 1.5 |
+| CI-NEW  | 2,500,000 | 3 |
+| CI-EN   | 2,500,000 | 3 |
+| CI-SUSTAIN | 1,000,000 | 3 |
+
+For CI-NEW/EN/SUSTAIN, NSF will provide no more than $250,000 per year for operating the infrastructure.
+
+
+## Caveat testbed folks
+
+Likewise, the past years have seen the emergence of a number of community resources and testbeds funded through CRI, NSF, and other sources to support CISE research. For example, cloud computing resources such as NSF Future Cloud as well as the collection of cloud resources now available beyond those supported by NSF offer excellent opportunities for investigations and data management that do not require significant additional infrastructure investments. Researchers should first consider use of currently available resources before submitting a CRI proposal. All CRI proposals must clearly demonstrate that the requirements of the proposed research agenda demand the new or enhanced infrastructure requested in the CRI proposal and cannot be accomplished using other existing resources. 
+
