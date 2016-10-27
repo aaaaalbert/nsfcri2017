@@ -12,15 +12,15 @@ Full Proposal Deadline Date: January 18, 2017
 
 ## Award classes
 
-* Institutional Infrastructure (II): II-NEW, II-EN (enhancement of existing)
-* Community Infrastructure (CI): planning (CI-P), new (CI-NEW), enhancement (CI-EN), sustainment (CI-SUSTAIN). Each CI award may support the *operation* of such infrastructure.
+* ~~Institutional Infrastructure (II, for use *at* the institution): II-NEW, II-EN (enhancement of existing)~~
+* Community Infrastructure (CI, for wide-spread use): planning (CI-P), new (CI-NEW), enhancement (CI-EN), sustainment (CI-SUSTAIN). Each CI award may support the *operation* of such infrastructure.
 
 
 ## Preliminary proposals
 
 [(Source)](https://www.nsf.gov/pubs/2015/nsf15590/nsf15590.htm#prep)
 
-> For collaborative projects, a single preliminary proposal should be submitted by the lead institution only.
+For collaborative projects, a single preliminary proposal should be submitted by the lead institution only.
 
 The preliminary proposal should consist of three elements: cover sheet, project description, and bio-sketch.
 
