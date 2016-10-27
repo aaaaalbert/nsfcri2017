@@ -42,3 +42,16 @@ The Project Description should then have the following clearly labeled sections:
  * A list of the CISE researchers communities that will benefit from the infrastructure; and
  * A list of any prior CISE funding the infrastructure has received (enhancement projects should also include the approximate date when the infrastructure involved was established).
 3. Biographical Sketch (2-page limit). A biographical sketch is required for the PI on the proposal or on the lead proposal for collaborative projects.
+
+
+## Award information
+
+TL;DR: CI$ >> II$, CI# << II#.
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 25 to 30
+
+With up to 20 Institutional Infrastructure (II) awards and up to 10 Community Infrastructure (CI) awards in each competition. The majority of the II awards will be made in the $200,000 - $750,000 range, though a small number of II awards may be made in the $750,000 - $1,000,000 range. The majority of the CI awards will be made in the $500,000 - $1,000,000 range, though a very small number of CI awards may be made in the $1,000,000 - $2,500,000 range. The majority of the Community Infrastructure Planning (CI-P) awards will be made in the $50,000 - $100,000 range.
+
+Anticipated Funding Amount: $18,000,000
