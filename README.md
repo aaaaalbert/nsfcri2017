@@ -1,7 +1,7 @@
 # NSF CRI 2017
 [(Source)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=12810).
 
-> (...) creation and enhancement of world-class research infrastructure that will support focused research agendas in computer and information science and engineering
+(...) creation and enhancement of world-class research infrastructure that will support focused research agendas in computer and information science and engineering
 
 ## Due Dates
 
@@ -60,7 +60,7 @@ Anticipated Funding Amount: $18,000,000
 ## Durations (via Program Description)
 [(Source)](https://www.nsf.gov/pubs/2015/nsf15590/nsf15590.htm#pgm_desc_txt)
 
-| Project type | Duration (years) | Max budget |
+| Project type | Max budget (USD) | Duration (years) |
 |---------|------|------------|
 | II-*    | 1,000,000 | 3 |
 | CI-P    |   100,000 | 1.5 |
