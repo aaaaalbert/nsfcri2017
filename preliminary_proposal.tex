@@ -1,0 +1,54 @@
+% Note: TeX based on Justin's cri-fy2014.
+% 10pt times is a tiny bit too tight for NSF rules, but 10pt CM is ok.
+
+\documentclass[11pt]{article}
+\usepackage{times}
+\usepackage{xspace}
+\usepackage{graphicx}
+\usepackage{paralist}
+\usepackage{verbatim}
+\usepackage{cite}
+% \usepackage{citesort}           % Sort numerical references
+\usepackage{color}
+\usepackage{acronym}
+\usepackage[normalem]{ulem}   % Strikethrough
+\usepackage{comment}
+
+% \acrodef{...}{...}
+
+\usepackage{subcaption}
+\usepackage{url}
+%\usepackage[small,compact]{titlesec}
+
+
+\newcommand{\tbd}{{\bf TBD:}}
+
+\input{pgformat}  % Page margins, section formatting
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\eat}[1]{}
+\newcommand{\cappos}[1]{\textcolor{red}{[JustinC: #1]}}
+\newcommand{\albert}[1]{\textcolor{green}{[Albert: #1]}}
+
+
+\begin{document}
+
+
+% Hacking \subsubsection to not end in newline
+%\titleformat{\subsubsection}[runin]{\bfseries}{}{}{}[]
+
+\thispagestyle{empty}
+
+\input{cover_sheet}
+\input{prelim_main}
+\input{bio_sketches}
+
+\newpage
+\bibliographystyle{abbrv}
+\bibliography{bibdata}
+
+\end{document}
+
+
+
