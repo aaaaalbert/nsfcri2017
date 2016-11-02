@@ -29,7 +29,7 @@ The preliminary proposal should consist of three elements: cover sheet, project 
  * **Project title**;
  * **Project type** (II-New, II-EN, CI-P, CI-New, CI-EN, or CI-SUSTAIN);
  * **Collaborative partners**: All collaborative partners should be identified, including PIs and Co-PIs of the collaborative partners with their institutional and departmental affiliations;
- * **CISE core division** (CCF, CNS, IIS) most relevant for the submission – the CISE division the proposal will be submitted to; and
+ * **CISE (Computer and Information Science and Engineering) core division** (CCF -- Computing and Communication Foundations, CNS -- Computer and Network Systems, IIS -- Information and Intelligent Systems) most relevant for the submission – the CISE division the proposal will be submitted to; and
  * **Three keyword descriptors** for the research focus that the requested infrastructure will enable.
 
 The Project Description should then have the following clearly labeled sections:
