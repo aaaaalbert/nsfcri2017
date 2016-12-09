@@ -39,3 +39,29 @@ proposer should report information for the primary site, as defined by
 the proposer.
  * Other Information --- e.g. Human Subjects (See GPG II.D.8),
 International Activities Country Name(s) (See GPG II.C.2.j)
+
+
+# Project Summary (1 page max)
+
+Overview, statement on intellectual merit of the proposed activity, 
+and statement on broader impacts of the proposed activity.
+
+The overview includes a description of the activity that would result 
+if the proposal were funded and a statement of objectives and methods 
+to be employed. The statement on intellectual merit should describe the 
+potential of the proposed activity to advance knowledge. The statement 
+on broader impacts should describe the potential of the proposed 
+activity to benefit society and contribute to the achievement of 
+specific, desired societal outcomes.
+
+The Project Summary should be written in the third person, informative 
+to other persons working in the same or related fields, and, insofar as 
+possible, understandable to a scientifically or technically literate 
+lay reader. It should not be an abstract of the proposal.
+
+The Project Summary may ONLY be uploaded as a Supplementary Document if 
+use of special characters is necessary. Such Project Summaries must be 
+formatted with **separate headings for Overview, Intellectual Merit and 
+Broader Impacts**. Failure to include these headings will result in the 
+proposal being returned without review.
+
