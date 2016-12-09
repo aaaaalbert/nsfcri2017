@@ -65,3 +65,177 @@ formatted with **separate headings for Overview, Intellectual Merit and
 Broader Impacts**. Failure to include these headings will result in the 
 proposal being returned without review.
 
+
+# TOC
+(auto-generated)
+
+
+# Project Description (15 pages max)
+
+(i) Content
+
+The Project Description should provide a clear statement of the work to 
+be undertaken and must include the objectives for the period of the 
+proposed work and expected significance; the relationship of this work 
+to the present state of knowledge in the field, as well as to work in 
+progress by the PI under other support.
+
+The Project Description should outline the general plan of work, 
+including the broad design of activities to be undertaken, and, where 
+appropriate, provide a clear description of experimental methods and 
+procedures. Proposers should address what they want to do, why they 
+want to do it, how they plan to do it, how they will know if they 
+succeed, and what benefits could accrue if the project is successful. 
+The project activities may be based on previously established and/or 
+innovative methods and approaches, but in either case must be well 
+justified. These issues apply to both the technical aspects of the 
+proposal and the way in which the project may make broader 
+contributions.
+
+The Project Description must contain, as a separate section within the 
+narrative, a section labeled "Broader Impacts". This section should 
+provide a discussion of the broader impacts of the proposed activities. 
+Broader impacts may be accomplished through the research itself, 
+through the activities that are directly related to specific research 
+projects, or through activities that are supported by, but are 
+complementary to the project. NSF values the advancement of scientific 
+knowledge and activities that contribute to the achievement of 
+societally relevant outcomes. Such outcomes include, but are not 
+limited to: full participation of women, persons with disabilities, and 
+underrepresented minorities in science, technology, engineering, and 
+mathematics (STEM); improved STEM education and educator development at 
+any level; increased public scientific literacy and public engagement 
+with science and technology; improved well-being of individuals in 
+society; development of a diverse, globally competitive STEM workforce; 
+increased partnerships between academia, industry, and others; improved 
+national security; increased economic competitiveness of the US; and 
+enhanced infrastructure for research and education.
+
+Plans for data management and sharing of the products of research, 
+including preservation, documentation, and sharing of data, samples, 
+physical collections, curriculum materials and other related research 
+and education products should be described in the Special Information 
+and Supplementary Documentation section of the proposal (see GPG 
+Chapter II.C.2.j for additional instructions for preparation of this 
+section).
+
+(ii) Page Limitations and Inclusion of Uniform Resource Locators (URLs) 
+within the Project Description
+
+Brevity will assist reviewers and Foundation staff in dealing 
+effectively with proposals. Therefore, the Project Description 
+(including Results from Prior NSF Support, which is limited to five 
+pages) may not exceed 15 pages. Visual materials, including charts, 
+graphs, maps, photographs and other pictorial presentations are 
+included in the 15-page limitation. PIs are cautioned that the Project 
+Description must be self-contained and that URLs must not be used 
+because: 1) the information could circumvent page limitations; 2) the 
+reviewers are under no obligation to view the sites; and 3) the sites 
+could be altered or deleted between the time of submission and the time 
+of review.
+
+Conformance to the 15-page limit will be strictly enforced and may not 
+be exceeded unless a deviation has been specifically authorized. (GPG 
+Chapter II.A contains information on deviations.)
+
+(iii) Results from Prior NSF Support
+
+If any PI or co-PI identified on the proposal has received NSF funding 
+with a start date in the past five years (including any current 
+funding and no cost extensions), information on the award is required 
+for each PI and co-PI, regardless of whether the support was directly 
+related to the proposal or not. In cases where the PI or co-PI has 
+received more than one award (excluding amendments to existing awards), 
+they need only report on the one award most closely related to the 
+proposal. Funding includes not just salary support, but any funding 
+awarded by NSF. NSF awards such as standard or continuing grants, 
+Graduate Research Fellowship, Major Research Instrumentation, travel, 
+conference, and center awards, etc., are subject to this requirement.
+
+The following information must be provided:
+
+(a) the NSF award number, amount and period of support;
+
+(b) the title of the project;
+
+(c) a summary of the results of the completed work, including 
+accomplishments, supported by the award. The results must be separately 
+described under two distinct headings, Intellectual Merit and Broader 
+Impacts;
+
+(d) a listing of the publications resulting from the NSF award (a 
+complete bibliographic citation for each publication must be provided 
+either in this section or in the References Cited section of the 
+proposal); if none, state "No publications were produced under this 
+award."
+
+(e) evidence of research products and their availability, including, 
+but not limited to: data, publications, samples, physical collections, 
+software, and models, as described in any Data Management Plan; and
+
+(f) if the proposal is for renewed support, a description of the 
+relation of the completed work to the proposed work.
+
+Reviewers will be asked to comment on the quality of the prior work 
+described in this section of the proposal. Note that the proposal may 
+contain **up to five pages to describe the results**. Results may be 
+summarized in fewer than five pages, which would give the balance of 
+the 15 pages for the Project Description.
+
+(iv) Unfunded Collaborations
+
+Any substantial collaboration with individuals not included in the 
+budget should be described in the Facilities, Equipment and Other 
+Resources section of the proposal (see GPG Chapter II.C.2.i) and 
+documented in a letter of collaboration from each collaborator. Such 
+letters should be provided in the supplementary documentation section 
+of the FastLane Proposal Preparation Module and follow the format 
+instructions specified in GPG Chapter II.C.2.j. Collaborative 
+activities that are identified in the budget should follow the 
+instructions in GPG Chapter II.D.
+
+(v) Group Proposals
+
+NSF encourages submission of proposals by groups of investigators; 
+often these are submitted to carry out interdisciplinary projects. 
+Unless stipulated in a specific program solicitation, however, such 
+proposals will be subject to the 15-page Project Description limitation 
+established in Section (ii) above. PIs who wish to exceed the 
+established page limitations for the Project Description must request 
+and receive a deviation in advance of proposal submission. (GPG Chapter 
+II.A contains information on deviations.)
+
+~~(vi) Proposals for Renewed Support~~ (not applicable)
+
+
+# References Cited
+
+Reference information is required. Each reference must include the 
+names of all authors (in the same sequence in which they appear in the 
+publication), the article and journal title, book title, volume number, 
+page numbers, and year of publication. (See also GPG Chapter 
+II.C.2.d.(iii)(d)) If the proposer has a website address readily 
+available, that information should be included in the citation. It is 
+not NSF's intent, however, to place an undue burden on proposers to 
+search for the URL of every referenced publication. Therefore, 
+inclusion of a website address is optional. A proposal that includes 
+reference citation(s) that do not specify a URL is not considered to be 
+in violation of NSF proposal preparation guidelines and the proposal 
+will still be reviewed.
+
+Proposers must be especially careful to follow accepted scholarly 
+practices in providing citations for source materials relied upon when 
+preparing any section of the proposal. While there is no established 
+page limitation for the references, this section must include 
+bibliographic citations only and must not be used to provide 
+parenthetical information outside of the 15-page Project Description.
+
+
+# Biographical Sketch(es)
+
+(i) Senior Personnel -- limited to two pages)
+
+(ii) Other Personnel
+
+(iii) Equipment Proposals
+
