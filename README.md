@@ -239,3 +239,58 @@ parenthetical information outside of the 15-page Project Description.
 
 (iii) Equipment Proposals
 
+
+# Budget and Budget Justification
+
+None of my business really
+
+
+# Current and Pending Support
+
+This section of the proposal calls for required information on
+all current and pending support for ongoing projects and proposals,
+including this project (...)
+
+
+# Facilities, Equipment and Other Resources
+
+This section of the proposal is used to assess the adequacy of the 
+resources available to perform the effort proposed to satisfy both the 
+Intellectual Merit and Broader Impacts review criteria. Proposers 
+should describe only those resources that are directly applicable. 
+Proposers should include an aggregated description of the internal and 
+external resources (both physical and personnel) that the organization 
+and its collaborators will provide to the project, should it be funded. 
+Such information must be provided in this section, in lieu of other 
+parts of the proposal (e.g., budget justification, project 
+description). The description should be narrative in nature and must 
+not include any quantifiable financial information. Reviewers will 
+evaluate the information during the merit review process and the 
+cognizant NSF Program Officer will review it for programmatic and 
+technical sufficiency.
+
+Although these resources are not considered cost sharing as defined in 
+2 CFR § 200.306, the Foundation does expect that the resources 
+identified in the Facilities, Equipment, and Other Resources section 
+will be provided, or made available, should the proposal be funded. AAG 
+Chapter II.B.1 specifies procedures for use by the awardee when there 
+are postaward changes to objectives, scope or methods/procedures. 
+
+
+# Special Information and Supplementary Documentation
+
+(not considered part of the 15-page Project Description limitation)
+
+* Postdoctoral Researcher Mentoring Plan
+* Plans for data management and sharing of the products of research
+* Rationale for performance of all or part of the project off-campus
+or away from organizational headquarters.
+* Documentation of collaborative arrangements of significance to the
+proposal through letters of collaboration
+* environmental impacts
+* International Activities
+* Antarctica, historical places, GMO/GEO
+* Human subjects
+
+
+# Appendices
