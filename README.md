@@ -3,7 +3,8 @@
 Note: The  NSF 15-590 [proposal preparation instructions](https://www.nsf.gov/pubs/2015/nsf15590/nsf15590.htm#prep)
 (scroll down to "Full Proposal Preparation Instructions") point to the
 January 2016 Grant Proposal Guide ("GPG") [section II.C.2](https://www.nsf.gov/pubs/policydocs/pappguide/nsf16001/gpg_2.jsp#IIC2)
-that lists the sections of the proposal. I'm stealing from there.
+that lists the sections of the proposal. I'm stealing from there, and
+add "supplements guidance" from the solicitation.
 
 ## Section overview
 
@@ -25,7 +26,7 @@ that lists the sections of the proposal. I'm stealing from there.
 * (2) Program Description/Announcement/Solicitation Number --- "NSF 15-590"
 * (3) NSF Unit of Consideration --- "CISE / Computer and Network Systems"
 * (4) Remainder of the Cover Sheet
- * Title of Proposed Project
+ * Acronym of proposal type -- ``:'' -- Title of Proposed Project (e.g. "CI-NEW: AwesomeProject")
  * Budget and Duration Information
  * ~~~PI Information and co-PI Information~~~ (from FastLane automatically)
  * Previous NSF Award --- indicate related preliminary proposal number 
@@ -65,12 +66,62 @@ formatted with **separate headings for Overview, Intellectual Merit and
 Broader Impacts**. Failure to include these headings will result in the 
 proposal being returned without review.
 
+Also, provide 3-5 high-level keyword descriptors for the project at the
+end of the overview in the Project Summary. Include descriptors of the
+CISE core discipline(s) that is (are) most closely related to the 
+intellectual focus of the research that the infrastructure will enable. 
+You may also include a basic descriptor of the type of infrastructure. 
+CISE personnel will use this information in implementing the merit 
+review process. Keywords should be prefaced with "Keywords" followed by 
+a colon and each keyword should be separated by semi-colons.
+
 
 # TOC
 (auto-generated)
 
 
 # Project Description (15 pages max)
+
+* Proposed CISE research infrastructure and its estimated lifetime, 
+noting whether it is new infrastructure to be created and operated or 
+existing infrastructure to be enhanced and operated;
+* Compelling new CISE research opportunities enabled by the proposed 
+infrastructure (including a description of the steps taken to identify 
+the research opportunities enabled by the infrastructure as well as 
+evidence that a diverse community of users plan to use the capabilities 
+provided);
+* CISE sub-disciplines that will benefit from the infrastructure and 
+CISE-centric research groups within the participating institutions that 
+will use the infrastructure;
+* Existing related resources along with a justification that the 
+proposed research cannot be accomplished with these resources at the 
+institution or elsewhere;
+* Samples of focused research projects or agendas that the 
+infrastructure will enable (note that the novelty and innovative 
+aspects of the research must be evident along with clear evidence that 
+the proposed infrastructure is essential to moving CISE research 
+frontiers forward);
+* Quality of service commitment to the relevant CISE research 
+community;
+* Means by which user satisfaction will be evaluated and used to 
+refine and improve subsequent infrastructure operations;
+* Plans for outreach to ensure that a broad community of users is 
+engaged;
+* Community plans to provide long-term sustainability of the 
+infrastructure;
+* Qualifications of the PIs and the project team to manage the 
+creation or enhancement and operations of the research infrastructure 
+in support of its users; and
+* Detailed project management plan, including a timeline, that 
+outlines all steps to be undertaken to acquire, develop, and/or operate 
+the research infrastructure, and identify the parties responsible for 
+each major task.
+
+If the proposed infrastructure is related to previously NSF-funded 
+infrastructure, describe the extent to which the previously funded 
+infrastructure will be integrated with the new infrastructure. Describe 
+how funds remaining from earlier NSF grants for related infrastructure 
+will be integrated with the requested award.
 
 (i) Content
 
