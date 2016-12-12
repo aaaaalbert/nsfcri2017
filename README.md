@@ -332,6 +332,20 @@ are postaward changes to objectives, scope or methods/procedures.
 
 (not considered part of the 15-page Project Description limitation)
 
+From program solicitation:
+1. List of Project Personnel and Partner Institutions (Note: In
+collaborative proposals, the lead institution should provide this
+information for all participants)
+2. A list of past and present Collaborators not related to this
+proposal (same Note applies)
+3. Data Management Plan (required), 2 pages max.
+4. Documentation of collaborative arrangements of significance to
+the proposal through Letters of Collaboration
+5. Other specialized information if applicable: RUI (Research in
+Undergraduate Institutions), GOALI (Grant Opportunities for Academic
+Liaison with Industry)
+
+From GPG:
 * Postdoctoral Researcher Mentoring Plan
 * Plans for data management and sharing of the products of research
 * Rationale for performance of all or part of the project off-campus
