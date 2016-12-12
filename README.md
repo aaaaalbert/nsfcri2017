@@ -1,3 +1,21 @@
+# CI-NEW in a nutshell
+## Expectations
+* Document the need for the new infrastructure in light of existing 
+infrastructure available to the relevant CISE research communities.
+* Demonstrate CISE research community support within the participating 
+institutions.
+* Show how the infrastructure will enable innovative CISE disciplinary 
+research.
+	
+## Characteristics
+* Infrastructure benefits a broad-based community of CISE researchers 
+that extends well beyond awardee institutions.
+* Proposal includes outreach to communities and commitment to 
+high-quality service.
+* Infrastructure enables compelling research for CISE researchers that 
+may extend the frontiers of the core CISE disciplines. 
+
+
 # Instructions for writing the full proposal
 
 Note: The  NSF 15-590 [proposal preparation instructions](https://www.nsf.gov/pubs/2015/nsf15590/nsf15590.htm#prep)
