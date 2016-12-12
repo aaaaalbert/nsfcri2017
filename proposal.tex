@@ -1,0 +1,62 @@
+% Note: TeX based on Justin's cri-fy2014.
+% 10pt times is a tiny bit too tight for NSF rules, but 10pt CM is ok.
+
+\documentclass[11pt]{article}
+\usepackage{times}
+\usepackage{xspace}
+\usepackage{graphicx}
+\usepackage{paralist}
+\usepackage{verbatim}
+\usepackage{cite}
+% \usepackage{citesort}           % Sort numerical references
+\usepackage{color}
+\usepackage{acronym}
+\usepackage[normalem]{ulem}   % Strikethrough
+\usepackage{comment}
+
+% \acrodef{...}{...}
+
+\usepackage{subcaption}
+\usepackage{url}
+%\usepackage[small,compact]{titlesec}
+
+
+\newcommand{\tbd}{{\bf TBD:}}
+
+\input{pgformat}  % Page margins, section formatting
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\eat}[1]{}
+\newcommand{\cappos}[1]{\textcolor{red}{[JustinC: #1]}}
+\newcommand{\albert}[1]{\textcolor{green}{[Albert: #1]}}
+\newcommand{\todo}[1]{\textcolor{magenta}{[TODO: #1]}}
+\newcommand{\explain}[1]{\scriptsize\textcolor{blue}{[Requirement: #1]}\normalsize}
+
+%\renewcommand{\explain}{\eat}
+%\renewcommand{\todo}{\eat}
+
+\newcommand{\sysname}{\textsc{Blocks}\xspace}
+
+\begin{document}
+
+
+% Hacking \subsubsection to not end in newline
+%\titleformat{\subsubsection}[runin]{\bfseries}{}{}{}[]
+
+\thispagestyle{empty}
+
+\input{cover_sheet}
+\input{summary}
+\input{description}
+\input{references}
+\input{bio_sketches}
+\input{budget}
+\input{support}
+\input{resources}
+\input{supplement}
+
+\end{document}
+
+
+
