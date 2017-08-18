@@ -10,9 +10,11 @@
 \usepackage{cite}
 % \usepackage{citesort}           % Sort numerical references
 \usepackage{color}
-\usepackage{acronym}
 \usepackage[normalem]{ulem}   % Strikethrough
 \usepackage{comment}
+
+\usepackage{glossaries}
+\loadglsentries{acronyms}
 
 % \acrodef{...}{...}
 
@@ -31,12 +33,12 @@
 \newcommand{\cappos}[1]{\textcolor{red}{[JustinC: #1]}}
 \newcommand{\albert}[1]{\textcolor{green}{[Albert: #1]}}
 \newcommand{\todo}[1]{\textcolor{magenta}{[TODO: #1]}}
-\newcommand{\explain}[1]{\textcolor{blue}{[Requirement: #1]}}
+\newcommand{\explain}[1]{\scriptsize\textcolor{blue}{[Requirement: #1]}\normalsize}
 
 %\renewcommand{\explain}{\eat}
 %\renewcommand{\todo}{\eat}
 
-\newcommand{\sysname}{\textsc{Blocks}\xspace}
+\newcommand{\sysname}{\textsc{UnifIoT}\xspace}
 
 \begin{document}
 

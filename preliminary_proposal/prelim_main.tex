@@ -5,7 +5,7 @@
 \explain{Two pages overall}
 
 \begin{description}
-  \item[Project Title:] \sysname -- Testbed Construction Kit With No Pronounceable Acronym
+  \item[Project Title:] \sysname -- Mending the fragmented \acrshort{IoT} landscape
   \item[Project Type:] CI-New \albert{or CI-EN}
   \item[Collaborative Partners:] \todo{All collaborative partners should be identified, including PIs and Co-PIs of the collaborative partners with their institutional and departmental affiliations}
   \item[CISE core division:] CNS (Computer and Network Systems)
@@ -20,25 +20,42 @@ project as well as other significant costs. Projects that involve
 enhancements to, or sustainment of, existing infrastructures should 
 include information about the existing resources.}
 
-\sysname is a construction kit for testbeds that contains building 
-blocks for bootstrapping, operating, and scaling varied types of testbeds.
-It comprises (1) a set of reusable, generic implementations of testbed
-infrastructure functions (such as a clearinghouse for mediating resource
-access) that is open for use to the community; (2) the actual software
-that implements these functions which the public
-%(including the wider academic community as well as commercial providers)
-is free to disseminate
-and replicate on other, non-\sysname infrastructure; and (3) the
-architectural guidelines that underlie the implemented software,
-provided so as to attract contributions of other implementations and
-features.
+The \acrfull{IoT} paradigm proposes networked embedded devices
+for large-scale, distributed sensing, control, and computational tasks,
+with the Internet serving as part of the networking substrate for
+the devices (``Things'') to exchange information.
+In its current realization today, the \acrlong{IoT} comprises
+devices in cars, homes and other buildings, public transport,
+industrial installations, medical contexts, and farming.
+This enables remote control and supervision of systems, provides
+means of data collection for evaluation, aids
+task automation, and advances convergence of cyber-physical systems.
 
-To assume this role, \sysname requires ....
+However, the larger-scale usefulness of current \acrlong{IoT}
+systems is held back by design choices of system vendors to
+integrate all of the functionality (from sensing and recording
+to data exchange and analysis) into monolithic silos of services.
+This design not only grants the vendor exclusive access to the
+sensor data, but also allows them to exert control over the ways
+that devices are used and operated. For example, a firmware update
+may disable device functionality (\albert{ref}), or services could
+require paid-for subscriptions for the device to work
+(\albert{ref}).
+If the device owner does not comply, their ability of using
+the device might be hampered. Furthermore, the owner has little
+choice over which type of device they interlink with what service
+provider.
 
-\albert{1. Mostly software to be written/adapted\\
-2a. Hardware in terms of....? Servers? (argue that we are exploring deployment
-options, distributed vs centralized, etc.)\\
-2b. Moar bettar v6 multihomed uplink}
+Besides causing inefficiency and loss of control for the end user,
+these issues also present substantial hurdles for the progress
+of scientific research on distributed sensor devices.
+The inability of accessing sensor data precludes using the
+data for novel applications; fragmentation and per-vendor silos
+prohibit studying cooperative use cases.
+
+Therefore, this proposal suggests to re-think the design choices
+that made the current acrlong{IoT} landscape a heap of segregated
+monoliths, and instead make it an an open system with proper interfaces and people in control to enable cooperative sensing, crowdery, etc.
 
 
 \subsection{CISE Research Focus}
@@ -50,33 +67,10 @@ project team and detail each member’s contributions to the project as
 well as specific expertise relative to the proposed focused research 
 agenda.}
 
-Research focus: Testbeds have become the go-to architectural approach
-to exploratory research in CS. We help build better, more capable,
-more interoperable testbeds more efficiently.
-
-Expertise: We've done this before, and are still doing it.
-E.g., Justin has a history of involvement in network testbeds
-(Planet-Lab/Stork, Seattle), and has many current ``become the default
-library'' projects going on (TUF, Uptane, in-toto).
-
-Albert has used lots of testbeds, and is helping to run/construct some.
 
 \subsection{Sample research project}
-% A short (2-3 sentences) summary of one potential research project 
-% should be included.
-A research team wants to construct a remote-accessible sensor network
-based on Internet-of-Things devices, requiring device discovery, access
-mediation, and data backhaul.
-Without \sysname, the team is forced to repeat effort done in previous
-endeavors (but in a non-reusable fashion): all of the required
-components would be constructed
-from scratch, and many useful and interesting pieces of functionality
-would likely be left out (due to lack of oversight, funding, expertise)
-or implemented in an incomplete, insecure fashion.
-Instead, building on top of \sysname allows researchers to focus on their
-core contribution, and reuse the \sysname infrastructure (either as-is or
-replicated on their own resources) for augmented and perhaps
-previously-unanticipated functionality.
+\explain{A short (2-3 sentences) summary of one potential research project 
+should be included.}
 
 \subsection{Nature of the community involvement}
 \explain{(required for CI-P, CI-New, CI-EN, or CI-SUSTAIN projects). This 
@@ -88,19 +82,6 @@ the community commitment to establishing and using the infrastructure.
 CI-EN and CI-SUSTAIN projects should describe community usage of the 
 infrastructure as well as community involvement in enhancement and 
 sustainment efforts.}
-
-Creation: Collect design and operational experience from other testbeds and operators.
-
-Enhancement: Comes through use and iteration on the design and
-implementation, including ours.
-
-Evaluation and use: Invite community to replace their components with
-ours, or also start using our components in parallel. Particularly for
-new testbed projects, show that we can decrease the time-to-experiment.
-
-Demand: Implicit -- see how many testbeds and similar projects have been funded
-over the last years, and how much overlap there was in what they
-implemented. Explicit -- people we know seek for and would use this.
 
 
 \subsection{Relevance to CISE}
