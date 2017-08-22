@@ -21,7 +21,7 @@ enhancements to, or sustainment of, existing infrastructures should
 include information about the existing resources.}
 
 \sysname is an open platform for research on the \acrfull{IoT}
-that provides unified methods for sensor access, data analysis,
+that helps to construct unified methods for sensor access, data analysis,
 and remote access and control. \sysname exposes the full \gls{IoT}
 stack for experimentation, and thus enables research on new paradigms
 for distributed sensing and sensor data fusion, data analysis, and
@@ -29,9 +29,11 @@ participatory sensing that today's tightly vertically-integrated
 commercial systems do not offer.
 
 In order to assume this function, \sysname comprises
-(1) a set of reusable, generic hardware implementations of
+(1) a set of reusable and amendable generic hardware implementations of
 \gls{IoT} nodes (or ``Things'') that are openly accessible for
-use by the community;
+use by the community via the Internet, and that interested parties
+can deploy, either to participate in \sysname or to reap its benefits
+and start their own deployment;
 (2) software that implements the required interfaces to
 enable said open use and that the public is free to disseminate
 and replicate on other, non-\sysname infrastructure; and
@@ -41,7 +43,32 @@ designs for Things, and also new software features and services
 that are difficult to implement within the restrictions of current
 commercial offerings.\\
 
+The equipment needs for \sysname are dominated by hardware required
+for experimentation. We plan to deploy \gls{IoT}-enabled devices
+at the PIs' institution, and to solicit volunteers to bootstrap an
+initial set of networked Things for open use by the scientific community.
+The initial deployment can resort to off-the-shelf components
+for prototyping, while future development strategies based on
+customized hardware are explored in parallel.
+To provide a sense of scale, a single prototype node can be built
+from a RaspberryPI single-board computer with additional sensor
+\glspl{HAT} and an outdoor case for around 100\$.
+For simpler or more self-contained tasks where general-purpose
+programmability and debugging is less of an issue, an ESP8266
+WiFi-networked microcontroller with a custom sensor attachment
+might be had for below 5\$ already.
 
+A larger proportion of costs will accrue to building the software
+that enables the proposed open, participatory access by the community.
+This comprises the sensing and networking code to be run on Things,
+the infrastructure for backhauling data, support for concurrent
+sensor access by researchers, privacy protection schemes for
+volunteers that host Things, and development and deployment tools
+that ease the adoption of \sysname throughout the community.
+
+
+\albert{HW we've tested includes RasPis, routers, smartphones.}
+\albert{SW we've done includes sensing and privacy.}
 The \acrfull{IoT} paradigm proposes networked embedded devices
 for large-scale, distributed sensing, control, and computational tasks,
 with the Internet serving as part of the networking substrate for
@@ -88,6 +115,17 @@ to the focused research thrust. The description should identify the
 project team and detail each member’s contributions to the project as 
 well as specific expertise relative to the proposed focused research 
 agenda.}
+
+Focus: Distributed sensing with an emphasis on openness and participation.
+
+Relevance: Fast-growing field; inaccessibility of paid-for systems.
+
+Expertise: Justin has a history of involvement in network testbeds
+(Planet-Lab/Stork, Seattle), and has many current ``become the default
+library'' projects going on (TUF, Uptane, in-toto).
+
+Albert has used lots of testbeds, and is helping to run/construct some.
+Also EE.
 
 
 \subsection{Sample research project}
