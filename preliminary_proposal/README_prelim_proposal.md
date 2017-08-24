@@ -5,9 +5,9 @@
 
 ## Due Dates
 
-Preliminary Proposal Deadline Date: November 8, 2016, 5 pm L.T.
+Preliminary Proposal Deadline Date: November 2, 2017, 5 pm L.T.
 
-Full Proposal Deadline Date: January 18, 2017
+Full Proposal Deadline Date: January 11, 2018
 
 
 ## Award classes
@@ -18,7 +18,7 @@ Full Proposal Deadline Date: January 18, 2017
 
 ## Preliminary proposals
 
-[(Source)](https://www.nsf.gov/pubs/2015/nsf15590/nsf15590.htm#prep)
+[(Source)](https://www.nsf.gov/pubs/2017/nsf17581/nsf17581.htm#prep)
 
 For collaborative projects, a single preliminary proposal should be submitted by the lead institution only.
 
@@ -28,7 +28,7 @@ The preliminary proposal should consist of three elements: cover sheet, project 
 2. **Project Description** (2-page limit). Start the Project Description with:
  * **Project title**;
  * **Project type** (II-New, II-EN, CI-P, CI-New, CI-EN, or CI-SUSTAIN);
- * **Collaborative partners**: All collaborative partners should be identified, including PIs and Co-PIs of the collaborative partners with their institutional and departmental affiliations;
+ * **Project Personnel**: (1) Lead Institution, (2) Institutions submitting collaborative proposals, (3) Other Collaborators.
  * **CISE (Computer and Information Science and Engineering) core division** (CCF -- Computing and Communication Foundations, CNS -- Computer and Network Systems, IIS -- Information and Intelligent Systems) most relevant for the submission – the CISE division the proposal will be submitted to; and
  * **Three keyword descriptors** for the research focus that the requested infrastructure will enable.
 
@@ -38,7 +38,7 @@ The Project Description should then have the following clearly labeled sections:
 * **Sample research project.** A short (2-3 sentences) summary of one potential research project should be included.
 * **The nature of the community involvement (required for CI-P, CI-New, CI-EN, or CI-SUSTAIN projects).** This section demonstrates the community involvement in the creation, enhancement, evaluation, and use of the resource. Describe the research community involved in the project. CI-New projects should show the community involvement and demand for the project as well as indicate the community commitment to establishing and using the infrastructure. CI-EN and CI-SUSTAIN projects should describe community usage of the infrastructure as well as community involvement in enhancement and sustainment efforts.
 * **The relevance to CISE.** This section should include:
- * A list of specific CISE researchers who are involved in the leadership of the project and in the development of the infrastructure (including any enhancement or sustainment plan, as appropriate);
+ * A list of specific CISE researchers who are involved in the leadership of the project and in the development, enhancement, or sustainment of the infrastructure;
  * A list of the CISE researchers communities that will benefit from the infrastructure; and
  * A list of any prior CISE funding the infrastructure has received (enhancement projects should also include the approximate date when the infrastructure involved was established).
 3. **Biographical Sketch** (2-page limit). A biographical sketch is required for the PI on the proposal or on the lead proposal for collaborative projects.
@@ -58,14 +58,14 @@ Anticipated Funding Amount: $18,000,000
 
 
 ## Durations (via Program Description)
-[(Source)](https://www.nsf.gov/pubs/2015/nsf15590/nsf15590.htm#pgm_desc_txt)
+[(Source)](https://www.nsf.gov/pubs/2017/nsf17581/nsf17581.htm#pgm_desc_txt)
 
 | Project type | Max budget (USD) | Duration (years) |
-|---------|------:|----------|
-| II-*    | 1,000,000 | 3 |
-| CI-P    |   100,000 | 1.5 |
-| CI-NEW  | 2,500,000 | 3 |
-| CI-EN   | 2,500,000 | 3 |
+|----------|------:|----------|
+| II (any) | 1,000,000 | 3 |
+| CI-P     |   100,000 | 1.5 |
+| CI-NEW   | 2,000,000 | 3 |
+| CI-EN    | 2,000,000 | 3 |
 | CI-SUSTAIN | 1,000,000 | 3 |
 
 For CI-NEW/EN/SUSTAIN, NSF will provide no more than $250,000 per year for operating the infrastructure.
